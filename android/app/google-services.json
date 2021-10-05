@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701174476814",
+    "firebase_url": "https://last-b7f0f-default-rtdb.firebaseio.com",
+    "project_id": "last-b7f0f",
+    "storage_bucket": "last-b7f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701174476814:android:d8532d9d8b9a3e19ab4c5f",
+        "android_client_info": {
+          "package_name": "com.example.med_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701174476814-jalhnr25dqh1oc26ptnmeaop3om9756m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02O-tCCeego6Klge9EKQS5fUbmZi07_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701174476814-jalhnr25dqh1oc26ptnmeaop3om9756m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
